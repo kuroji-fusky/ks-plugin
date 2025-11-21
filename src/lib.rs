@@ -1,6 +1,6 @@
 pub mod admin;
 pub mod frontend;
-pub mod storyboard;
+pub mod writing;
 
 pub enum PluginCategories {
     Storyboards,
